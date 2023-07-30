@@ -40,11 +40,13 @@ INSTALLED_APPS = [
     #third party packeges 
 
     'rest_framework',
+    'rest_framework_simplejwt',
 
 
 
     #internal apps
-    
+    'products',
+    'user',
 
 ]
 

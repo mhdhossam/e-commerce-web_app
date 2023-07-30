@@ -9,6 +9,8 @@ User =get_user_model()
 
 
 # class Product(models.Model):
+#     name=models.CharField()
+  
     
 
 
